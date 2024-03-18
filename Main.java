@@ -1,5 +1,3 @@
-package javaProjectJenkins;
-
 import java.util.Date;
 
 public class Main {
